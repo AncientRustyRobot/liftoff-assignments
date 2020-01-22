@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+1. Overview- My project is going to be a gear ratio to mph calculator, it will give the user the ability to calculate tire speed
+taking into account engine rpm, transmission gear ratio, rear end gear ratio and tire size.
 ### Features
-Include Features here
+2. Features- multiple drop down menus for selecting pre mapped out popular transmissions, gear ratios and tires.
+user login so users can save their data, blank inputs so users can give their own data to calulate.
 ### Technologies
-Include Technologies here
+3. Technologies- C#, asp.netcore,html5,css,SQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+4. Learning new- Ill have to learn how to render out graphs with C#
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/5LLOfcM6/don-liftoff-project
